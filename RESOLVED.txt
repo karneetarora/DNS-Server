@@ -1,0 +1,6 @@
+kill.cs.rutgers.edu 182.48.3.2 A
+DESKTOP-MTVPUME - NS
+DESKTOP-MTVPUME - NS
+DESKTOP-MTVPUME - NS
+www.google.com 8.6.4.2 A
+DESKTOP-MTVPUME - NS
