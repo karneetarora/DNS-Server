@@ -18,4 +18,4 @@ Program Outline:
   (where TShostname the machine hosting TS)
 4. The client then sends the queried hostname as a string to TS
 5. The TS program looks up the hostname in its DNS_table, and if there is a match, sends the entry as a string: Hostname IP address A
-  Otherwise, it sends an error string: Hostname - Error:HOST NOT FOUND
+  Otherwise, it sends an error string: Hostname - Error: HOST NOT FOUND
